@@ -1,4 +1,5 @@
-# Faydark Adventurer Architect – Core Instructions
+# Faydark Adventurer
+
 
 ## 🎮 Game & Narrative Rules
 - **Core Stats**: Agility, Endurance, Strength, Wisdom, Charisma.  
